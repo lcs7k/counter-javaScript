@@ -1,0 +1,35 @@
+.frist{
+    background-image: url(./assets/numeros.jpg);
+    height: 650px;
+}
+
+.section2{
+    display: inline-block;
+    background: rgb(20, 218, 201);
+    width: 500px;
+    height: 300px;
+    position: relative;
+    top: 160px;
+    left: 410px;
+}
+
+.section1{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    position: relative;
+    top: 130px;
+    left: 100px;
+}
+
+.minus-button, 
+.plus-button{
+    width: 50px;
+    height: 50px;
+}
+
+.counter-value,
+.counter{
+    font-size: 30px;
+}
+
